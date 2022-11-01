@@ -7,7 +7,7 @@
 ⚒️ Tech Stack 
 
 
- [![My Skills](https://skillicons.dev/icons?i=angular,javascript,typescript,rxjs,git,sass,css,html,mysql,visualstudio)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=angular,javascript,typescript,rxjs,git,webpack,sass,css,html,mysql,visualstudio)](https://skillicons.dev)
 
 
 
