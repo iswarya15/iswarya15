@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m a Frontend Engineer, my current role involves developing and styling UI components using frontend framework.
-- 🌱 I’m currently learning Asynchronous and Functional Programming.
+- 🌱 I’m currently solving UI challenges
 
 ⚒️ Tech Stack 
 
