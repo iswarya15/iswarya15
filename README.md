@@ -10,7 +10,7 @@
  [![My Skills](https://skillicons.dev/icons?i=angular,javascript,typescript,rxjs,git,webpack,sass,css,html,mysql,visualstudio)](https://skillicons.dev)
  
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iswarya15&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iswarya15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
