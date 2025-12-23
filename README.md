@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React
 
 
-[![Iswarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=iswarya15)](https://github.com/iswarya15/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iswarya15\&layout=compact)
 
 
 
